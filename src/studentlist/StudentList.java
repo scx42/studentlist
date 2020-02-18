@@ -60,6 +60,8 @@ public class StudentList {
             studentList[i] = student; // put student in the array
         }
 //ghdff
+        dfsfds
+            dsfdsf
         System.out.println("Now we print them out");
 
         for (Student student : studentList) {
