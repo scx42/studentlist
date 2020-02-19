@@ -59,7 +59,8 @@ public class StudentList {
             student.setAddress(address);
             studentList[i] = student; // put student in the array
         }
-//ghdff
+//ghdfffsdfs
+//by master
         System.out.println("Now we print them out");
 
         for (Student student : studentList) {
